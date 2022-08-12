@@ -8,9 +8,7 @@ For runing the code, the command line is
 ```python
 python clusterplot.py LCM_normalized_RPKM.txt DEGs_list.txt DEG_cluster.csv DEG_cluster.png gene_cluster.txt
 ```
-where LCM_normalized_RPKM.txt and DEGs_list.txt are input data and deposited in data folder, and the last three arguments are output data.
+where LCM_normalized_RPKM.txt and DEGs_list.txt are input data and deposited in data folder, and the last three arguments are arbitrary for the output data.
 
 ### Figure 4. WGCNA (weighted gene co-correlation network analysis)
-The code is  deposited in WGCNA and data are in WGCNA profile.
-
-
+The code is deposited in WGCNA and data are in WGCNA profile.
