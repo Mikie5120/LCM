@@ -1,7 +1,8 @@
 # Regulators of early maize leaf development inferred from transcriptomes of LCM-isolated embryonic leaf cells: supplementary material
 
 ## Contents
-* [Figure ?](#figureN)
+* [Figure 8](#figure8)
+  WGCNA (weighted gene co-correlation network analysis)
 * [Acknowledgments](#acknowledgments)
 * [Citation](#citation)
 * [References](#references)
