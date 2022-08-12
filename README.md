@@ -1,11 +1,13 @@
 # Regulators of early maize leaf development inferred from transcriptomes of LCM-isolated embryonic leaf cells: supplementary material
 
 ## Contents
-* [Figure 4](#figure4)
-  WGCNA (weighted gene co-correlation network analysis)
-* [Acknowledgments](#acknowledgments)
-* [Citation](#citation)
-* [References](#references)
+* Figure 3. Expression profiles of differentially expressed genes (DEGs) between pre-Kranz and pre-M cells.
+The python code is deposited in code.
+For runing the code, the command line is
+python clusterplot.py LCM_normalized_RPKM.txt DEGs_list.txt DEG_cluster.csv DEG_cluster.png gene_cluster.txt
+where LCM_normalized_RPKM.txt and DEGs_list.txt are input data and deposited in data folder, and the last three arguments are output data.
+
+* Figure 4. WGCNA (weighted gene co-correlation network analysis)
+The code is  deposited in WGCNA and data are in WGCNA profile.
 
 
-Our pipeline is represented in the following figure and described in detail below.
